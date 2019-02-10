@@ -1,0 +1,107 @@
+#page {
+	width: 1000px;
+	margin: auto;
+}
+
+#logo {
+	background-color: #181B30;
+	width: 100%;
+	height: 30px;
+	color: white;
+	text-align: center;
+}
+
+.line {
+	height: 5px;
+	background-color: #F7DC0D;
+}
+
+#pasek2 {
+	height: 50px;
+	background-color: #181B30;
+}
+
+#box {
+	height: 300px;
+	background-color: #181B30;
+	color: white;
+	font-size: 32pt;
+	font-weight: bold;
+	font-family: arial;
+}
+
+#pasek4 {
+	float: left;
+	height: 100%;
+}
+
+#pasek5 {
+	margin-top: 180px;
+	margin-left: 15px;
+}
+
+#pasek6 {
+	float: right;
+	font-size: 28pt;
+}
+
+
+
+#zaloguj {
+	background-color: #3572D4;
+	width: 180px;
+	height: 40px;
+	color: white;
+	border: none;
+	font-size: 12pt;
+	font-family: arial;
+}
+
+#zarejestruj {
+	background-color: #C98C36;
+	width: 180px;
+	height: 40px;
+	color: white;
+	border: none;
+	font-size: 12pt;
+	font-family: arial;
+}
+
+
+
+#content {
+	height: 300px;
+}
+
+#footer {
+	height: 50px;
+	background-color: #181B30;
+}
+
+.row {
+	margin: 0px;
+	display: block;
+}
+
+#pasek8 {
+	background-color: #E0DBD3;
+	height: 150px;
+	text-align: center;
+	margin: auto;
+
+}
+
+.pasek10 {
+	float: left;
+	width: 200px;
+	height: 100px;
+}
+
+.pasek11 {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.pasek12 {
+	font-size: 10px;
+}
